@@ -11,6 +11,13 @@
 /config
 /bootstrap
 /.idea
+editor.config
+env.example
+.gitattributes
+.gitignore
+artisan
+phpunit.xml
+webpack.mix.js
 server.php
 README.md
 .styleci.yml
